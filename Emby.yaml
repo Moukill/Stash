@@ -1,4 +1,4 @@
-payload:
+emby-rule:
   - DOMAIN-SUFFIX,ha.jmsooo.com
   - DOMAIN-SUFFIX,cf.jmsooo.com
   - DOMAIN-SUFFIX,misakaf.org
@@ -9,24 +9,24 @@ payload:
   - DOMAIN-SUFFIX,789.123456.al 
   - DOMAIN-SUFFIX,film.goodisp.org
   - DOMAIN-KEYWORD,emby
-  - DOMAIN-KEYWORD,misty
+  - DOMAIN-KEYWORD,misty.ltd
   - DOMAIN-KEYWORD,jmsooo
-  - DOMAIN-KEYWORD,media
-  - DOMAIN-KEYWORD,aaa
+  - DOMAIN-KEYWORD,media.nijigem
+  - DOMAIN-KEYWORD,aaa.ax
   - DOMAIN-KEYWORD,mjjemby
   - DOMAIN-KEYWORD,misakaf
   - DOMAIN-KEYWORD,polo
   - DOMAIN-KEYWORD,infinityfly
-  - DOMAIN-KEWORD,nebula
-  - DOMAIN-KEWORD,ju
-  - DOMAIN-KEWORD,singularity
-  - DOMAIN-KEWORD,freetz
-  - DOMAIN-KEWORD,foxcoo
-  - DOMAIN-KEWORD,bili
-  - DOMAIN-KEWORD,studyfun
-  - DOMAIN-KEWORD,shuipo.lol
-  - DOMAIN-KEWORD,zox
-  - DOMAIN-KEWORD,acemby
-  - DOMAIN-KEWORD,embyplus
+  - DOMAIN-KEYWORD,nebula
+  - DOMAIN-KEYWORD,ju.dog
+  - DOMAIN-KEYWORD,singularity
+  - DOMAIN-KEYWORD,freetz
+  - DOMAIN-KEYWORD,foxcoo
+  - DOMAIN-KEYWORD,bili.rip
+  - DOMAIN-KEYWORD,studyfun
+  - DOMAIN-KEYWORD,shuipo.lol
+  - DOMAIN-KEYWORD,zox.show
+  - DOMAIN-KEYWORD,acemby
+  - DOMAIN-KEYWORD,embyplus
   - IP-CIDR,202.61.237.28
   - IP-CIDR,138.2.9.40
