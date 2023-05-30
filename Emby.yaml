@@ -9,23 +9,23 @@ payload:
   - DOMAIN-SUFFIX,789.123456.al 
   - DOMAIN-SUFFIX,film.goodisp.org
   - DOMAIN-KEYWORD,emby
-  - DOMAIN-KEYWORD,misty.ltd
+  - DOMAIN-KEYWORD,misty
   - DOMAIN-KEYWORD,jmsooo
-  - DOMAIN-KEYWORD,media.nijigem
-  - DOMAIN-KEYWORD,aaa.ax
+  - DOMAIN-KEYWORD,media
+  - DOMAIN-KEYWORD,aaa
   - DOMAIN-KEYWORD,mjjemby
   - DOMAIN-KEYWORD,misakaf
   - DOMAIN-KEYWORD,polo
   - DOMAIN-KEYWORD,infinityfly
   - DOMAIN-KEWORD,nebula
-  - DOMAIN-KEWORD,ju.dog
+  - DOMAIN-KEWORD,ju
   - DOMAIN-KEWORD,singularity
   - DOMAIN-KEWORD,freetz
   - DOMAIN-KEWORD,foxcoo
-  - DOMAIN-KEWORD,bili.rip
+  - DOMAIN-KEWORD,bili
   - DOMAIN-KEWORD,studyfun
   - DOMAIN-KEWORD,shuipo.lol
-  - DOMAIN-KEWORD,zox.show
+  - DOMAIN-KEWORD,zox
   - DOMAIN-KEWORD,acemby
   - DOMAIN-KEWORD,embyplus
   - IP-CIDR,161.97.148.156/24
