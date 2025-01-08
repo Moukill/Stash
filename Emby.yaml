@@ -1,12 +1,8 @@
 emby-rule:
-  - DOMAIN-SUFFIX,ha.jmsooo.com
-  - DOMAIN-SUFFIX,cf.jmsooo.com
-  - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN-SUFFIX,4837.misakaf.org
   - DOMAIN-SUFFIX,cc.coemn.com
+  - DOMAIN-SUFFIX,cf.bili.rip
+  - DOMAIN-SUFFIX,hxd.as174.de
   - DOMAIN-KEYWORD,emby
-  - DOMAIN-KEYWORD,jmsooo
+  - DOMAIN-KEYWORD,jms
   - DOMAIN-KEYWORD,misakaf
   - DOMAIN-KEYWORD,polo
-  - IP-CIDR,202.61.237.28
-  - IP-CIDR,138.2.9.40
